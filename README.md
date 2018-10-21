@@ -4,11 +4,11 @@ Standard ERC-20 Token.
 
 Uses SafeMath Library
 
-Token Name: Boon Tech
+**Token Name:** Boon Tech
 
-Token Symbol: Boon
+**Token Symbol:** Boon
 
-Total Supply: 500 Million
+**Total Supply:** 500 Million
 
 Implements token vesting and token locking.
 
