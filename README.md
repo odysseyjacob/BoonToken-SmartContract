@@ -17,3 +17,6 @@ Implements token vesting and token locking.
 The contract is currently visible on Ethereum **MAINNET**.
 
 BOON Token: [0xe83e098eedb43b33d340d4757529e5a2c4ee3230](https://etherscan.io/token/0xe83e098eedb43b33d340d4757529e5a2c4ee3230)
+
+Authors:
+CHUDDY
